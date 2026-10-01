@@ -4,3 +4,4 @@ Thank you everyone who has contributed to this project! Whether you fixed a bug,
 
 ## Contributors
 * [@aipd506](https://github.com/aipd506) - Resolved dependency requirements issues.
+* [@thejedi433](https://github.com/thejedi433) - Resolved dependency issues.
