@@ -1,7 +1,7 @@
 import os
 import json
 import ollama
-from PyPDF2 import PdfReader
+from pypdf import PdfReader
 from IPython.display import display, Markdown
 import re
 from datetime import datetime
