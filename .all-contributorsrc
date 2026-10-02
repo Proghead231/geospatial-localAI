@@ -1,4 +1,7 @@
 {
   "projectName": "geospatial-localAI",
-  "projectOwner": "Proghead231"
+  "projectOwner": "Proghead231",
+  "files": [
+    "CONTRIBUTORS.md"
+  ]
 }
