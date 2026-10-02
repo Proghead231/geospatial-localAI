@@ -13,6 +13,13 @@ Thank you everyone who has contributed to this project! Whether you fixed a bug,
 <!-- ALL-CONTRIBUTORS-LIST:START - Do not remove or modify this section -->
 <!-- prettier-ignore-start -->
 <!-- markdownlint-disable -->
+<table>
+  <tbody>
+    <tr>
+      <td align="center" valign="top" width="14.28%"><a href="https://github.com/ShauryaPrakashVerma"><img src="https://avatars.githubusercontent.com/u/193109983?v=4?s=100" width="100px;" alt="Shaurya Prakash Verma"/><br /><sub><b>Shaurya Prakash Verma</b></sub></a><br /><a href="#code-ShauryaPrakashVerma" title="Code">💻</a> <a href="#doc-ShauryaPrakashVerma" title="Documentation">📖</a> <a href="#ideas-ShauryaPrakashVerma" title="Ideas, Planning, & Feedback">🤔</a></td>
+    </tr>
+  </tbody>
+</table>
 
 <!-- markdownlint-restore -->
 <!-- prettier-ignore-end -->
