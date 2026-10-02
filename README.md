@@ -132,6 +132,20 @@ Optimized specifically for **RTX 3060 Laptop (6 GB VRAM) + 32 GB RAM** running `
 
 ---
 
+---
+## Contributors
+
+<!-- ALL-CONTRIBUTORS-LIST:START - Do not remove or modify this section -->
+<!-- prettier-ignore-start -->
+<!-- markdownlint-disable -->
+
+<!-- markdownlint-restore -->
+<!-- prettier-ignore-end -->
+
+<!-- ALL-CONTRIBUTORS-LIST:END -->
+
+---
+
 ## 📜 License
 
 [MIT License](LICENSE)
