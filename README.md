@@ -23,7 +23,7 @@ A lightweight, local Python workflow for context-aware code review, paper analys
 ### Python Packages
 
 ```bash
-pip install ollama PyPDF2 IPython
+pip install ollama pypdf IPython
 ```
 
 ---
