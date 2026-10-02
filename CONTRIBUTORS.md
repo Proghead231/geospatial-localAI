@@ -17,6 +17,7 @@ Thank you everyone who has contributed to this project! Whether you fixed a bug,
   <tbody>
     <tr>
       <td align="center" valign="top" width="14.28%"><a href="https://github.com/ShauryaPrakashVerma"><img src="https://avatars.githubusercontent.com/u/193109983?v=4?s=100" width="100px;" alt="Shaurya Prakash Verma"/><br /><sub><b>Shaurya Prakash Verma</b></sub></a><br /><a href="#code-ShauryaPrakashVerma" title="Code">💻</a> <a href="#doc-ShauryaPrakashVerma" title="Documentation">📖</a> <a href="#ideas-ShauryaPrakashVerma" title="Ideas, Planning, & Feedback">🤔</a></td>
+      <td align="center" valign="top" width="14.28%"><a href="https://github.com/thejedi433"><img src="https://avatars.githubusercontent.com/u/317370311?v=4?s=100" width="100px;" alt="thejedi433"/><br /><sub><b>thejedi433</b></sub></a><br /><a href="#code-thejedi433" title="Code">💻</a></td>
     </tr>
   </tbody>
 </table>
