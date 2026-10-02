@@ -3,5 +3,21 @@
   "projectOwner": "Proghead231",
   "files": [
     "CONTRIBUTORS.md"
+  ],
+  "commitType": "docs",
+  "commitConvention": "angular",
+  "contributorsPerLine": 7,
+  "contributors": [
+    {
+      "login": "ShauryaPrakashVerma",
+      "name": "Shaurya Prakash Verma",
+      "avatar_url": "https://avatars.githubusercontent.com/u/193109983?v=4",
+      "profile": "https://github.com/ShauryaPrakashVerma",
+      "contributions": [
+        "code",
+        "doc",
+        "ideas"
+      ]
+    }
   ]
 }
