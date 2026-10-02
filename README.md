@@ -132,6 +132,14 @@ Optimized specifically for **RTX 3060 Laptop (6 GB VRAM) + 32 GB RAM** running `
 
 ---
 
+ℹ️ Note: Portions of this repository, including this documentation, were generated with the assistance of AI tools. All logic has been verified and tested by human maintainers.
+
+---
+
+---
+
 ## 📜 License
 
 [MIT License](LICENSE)
+
+---
