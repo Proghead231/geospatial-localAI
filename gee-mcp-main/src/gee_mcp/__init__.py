@@ -1,1 +1,0 @@
-"""GEE MCP server."""
